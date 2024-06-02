@@ -1,0 +1,105 @@
+fishes:
+  - name: "Salmon"
+    customModelData: 1001
+    probability: 0.0774
+    strength: 5
+  - name: "Clownfish"
+    customModelData: 1002
+    probability: 0.0310
+    strength: 4
+  - name: "Pufferfish"
+    customModelData: 1003
+    probability: 0.0464
+    strength: 6
+  - name: "Cod"
+    customModelData: 1004
+    probability: 0.0929
+    strength: 4
+  - name: "Tuna"
+    customModelData: 1005
+    probability: 0.0155
+    strength: 7
+  - name: "Swordfish"
+    customModelData: 1006
+    probability: 0.0062
+    strength: 8
+  - name: "Shark"
+    customModelData: 1007
+    probability: 0.0031
+    strength: 10
+  - name: "Goldfish"
+    customModelData: 1008
+    probability: 0.0217
+    strength: 3
+  - name: "Catfish"
+    customModelData: 1009
+    probability: 0.0619
+    strength: 6
+  - name: "Bass"
+    customModelData: 1010
+    probability: 0.0464
+    strength: 5
+  - name: "Mackerel"
+    customModelData: 1011
+    probability: 0.0372
+    strength: 4
+  - name: "Trout"
+    customModelData: 1012
+    probability: 0.0681
+    strength: 5
+  - name: "Halibut"
+    customModelData: 1013
+    probability: 0.0093
+    strength: 7
+  - name: "Sturgeon"
+    customModelData: 1014
+    probability: 0.0031
+    strength: 9
+  - name: "Anchovy"
+    customModelData: 1015
+    probability: 0.0929
+    strength: 3
+  - name: "Sardine"
+    customModelData: 1016
+    probability: 0.0774
+    strength: 3
+  - name: "Grouper"
+    customModelData: 1017
+    probability: 0.0248
+    strength: 6
+  - name: "Snapper"
+    customModelData: 1018
+    probability: 0.0557
+    strength: 5
+  - name: "Perch"
+    customModelData: 1019
+    probability: 0.0619
+    strength: 4
+  - name: "Pike"
+    customModelData: 1020
+    probability: 0.0217
+    strength: 6
+  - name: "Marlin"
+    customModelData: 1021
+    probability: 0.0062
+    strength: 8
+  - name: "Walleye"
+    customModelData: 1022
+    probability: 0.0310
+    strength: 5
+  - name: "Tilapia"
+    customModelData: 1023
+    probability: 0.0464
+    strength: 4
+  - name: "Barracuda"
+    customModelData: 1024
+    probability: 0.0155
+    strength: 7
+  - name: "Mahi Mahi"
+    customModelData: 1025
+    probability: 0.0093
+    strength: 6
+  - name: "Blue Tang"
+    customModelData: 1026
+    probability: 0.0372
+    strength: 4

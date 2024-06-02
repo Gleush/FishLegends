@@ -1,0 +1,4 @@
+name: FishLegends
+version: '${project.version}'
+main: io.github.gleush.fishlegends
+api-version: '1.20'
